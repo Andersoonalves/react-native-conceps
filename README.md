@@ -1,2 +1,2 @@
 # react-native-conceps
-A simple project to start explore React Native.
+A simple project to start explore React Native!
